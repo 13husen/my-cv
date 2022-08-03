@@ -1,0 +1,166 @@
+{
+  "links": {
+    "about": "About",
+    "education": "Education",
+    "experience": "Experience",
+    "skills": "Skills",
+    "interests": "Interests",
+    "projects": "Projects"
+  },
+  "personalInfo": {
+    "name": "Muhammad Malik",
+    "lastName": "Hussein",
+    "subHeadingText": [
+      "Software Enginneer",
+      "Full Stack Developer",
+      "Code enthusiast!"
+    ],
+    "city": "Bekasi, Indonesia",
+    "phoneNumber": "+62 - 8133-697-9372",
+    "email": "123husena@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/husen-malik//",
+    "github": "https://github.com/13husen",
+    "gitlab": "https://gitlab.com/123husena",
+    "bitbucket": "https://bitbucket.org/17husenalmalik/",
+    "myDescription": "Passionate FullStack Developer for 5 years. Code enthusiastic. Still learning until now. making useful application using the latest technologies!"
+  },
+  "educationDegrees": {
+    "title": "Education 📕",
+    "degrees": [
+      {
+        "collage": "Indraprasta PGRI University, Jakarta",
+        "name": "Engineering Degree",
+        "itemList": ["Technical Information"],
+        "startEndDate": "March 2018 - November 2022"
+      }
+    ]
+  },
+  "workExperiences": {
+    "title": "Work Expecience 🔨",
+    "works": [
+      {
+        "position": "Software Engineer / FullStack Developer",
+        "companie": "PT. Mandiri Indonesia (Working from Vendor Company : PT. Bumi Amarta Teknologi Mandiri",
+        "responsabilities": [
+          "Create API and Microservices in Java Spring.",
+          "Complete Daily Task Mostly Using Outsystems.",
+          "Backend Developer: Java Spring (Temporary) .",
+          "Frontend Developer: Outsystems Service Studio."
+        ],
+        "startEndDate": "December 2021- Now"
+      },      
+      {
+        "position": "Software Engineer / FullStack Developer",
+        "companie": "PT. Tema Data Rekayasa Digital",
+        "responsabilities": [
+          "Responsible for create and maintaining requested application.",
+          "App Design (Adobe XD and Figma).",
+          "Backend Developer: Laravel | Lumen | MySQL | REDIS .",
+          "Frontend Developer: TypeScript |  Javascript | Nuxt | Java Android | Flutter.",
+          "Deploy the project in server using putty and linux ssh"
+        ],
+        "startEndDate": "July 2020- December 2021"
+      },      
+      {
+        "position": "Software Engineer / Technical Lead",
+        "companie": "PT. Sandika Cahya Mandiri (liteBIG)",
+        "responsabilities": [
+          "Responsible for designing, developing and maintaining messaging applications and other type application used by company partner.",
+          "Web Team leader, I take technical decisions about which technologies use in each project and how the team will works.",
+          "Backend Developer: PHP | Codeigniter | MySQL | REDIS | Java Servlet.",
+          "Frontend Developer: JQuery |  Javascript | Materialized.",
+          "Messaging Technology: Ejabberd |  Stophe.js (XMPP) | Rocket Chat | Conversation (Mobile Chat Messenger)."
+        ],
+        "startEndDate": "May 2017 - May 2020"
+      }
+    ]
+  },
+  "skills": {
+    "title": "Skills 🎯",
+    "iconsTitle": "Programming Languages & Tools",
+    "devIcons": [
+      "devicon-nuxtjs-plain",
+      "devicon-typescript-plain",
+      "devicon-javascript-plain",
+      "devicon-html5-plain-wordmark",
+      "devicon-css3-plain-wordmark",
+      "devicon-git-plain",
+      "devicon-nodejs-plain",
+      "devicon-bootstrap-plain",
+      "devicon-github-original",
+      "devicon-bitbucket-original-wordmark",
+      "devicon-gitlab-plain-wordmark",
+      "devicon-jquery-plain-wordmark",
+      "devicon-linux-plain",
+      "devicon-windows8-original",
+      "devicon-xd-plain",
+      "devicon-figma-plain",
+      "devicon-photoshop-plain",
+      "devicon-react-original",
+      "devicon-visualstudio-plain",
+      "devicon-vuejs-plain",
+      "devicon-mysql-plain",
+      "devicon-mongodb-plain",
+      "devicon-spring-plain",
+      "devicon-apple-plain",
+      "devicon-apple-plain",
+      "devicon-laravel-plain",
+      "devicon-android-plain-wordmark",
+      "devicon-tomcat-plain",
+      "devicon-apache-plain",
+      "devicon-go-plain",
+      "devicon-python-plain"
+    ],
+    "workflow": "Workflow",
+    "itemList": [
+      "Responsive Design & UX",
+      "Cross Browser Testing & Debugging",
+      "Building REST or SOAP API",
+      "Build Microservices",
+      "Team working",
+      "Working Under Pressure",
+      "Design Patterns",
+      "Building Multi-platform application"
+    ]
+  },
+  "interests": {
+    "title": "Hobbies 😄",
+    "firstBlock": "Apart from being a fullstack developer, I enjoy most of my time read manga and article about ancient history. I love singing and weight lifting in my spare time!. 🎵🏃",
+    "secondBlock": "I spend a large amount of my free time learning new things, coding in my personal projects and purchase new course in udemy for my future investment ! 🙌👨‍💻"
+  },
+  "projects": {
+    "title": "Projects 🦾🧠",
+    "projectsInfo": [
+      {
+        "name": "Inventmart",
+        "description": "Inventmart is a warehouse project as part of college work practice in my college built using Java Spring framework, Jfoenix, and Jasper Report connected to MySQLite Database. ",
+        "image": "/images/inventmart.png",
+        "siteUrl": ""
+      },
+      {
+        "name": "Speed Laundry",
+        "description": "Speed Laundry is a laundry app for Speed Laundry in bekasi, it built using android studio with java, and backend using Laravel 8 with sanctum auth.This app is created for the purpose to  make laundry much more easier, it has a lot of feature, including e-wallet based payment, status notification for the laundry transaction, and generate report for owner needs.",
+        "image": "/images/laundry.png",
+        "siteUrl": ""
+      },
+      {
+        "name": "Rumassa",
+        "description": "Rumassa is a social app that helps to connect with a former friends in Kuningan SMA 1 Highscool created with Android Studio Java, it has many feature including sharepost and timeline, news, marketplace and donation.",
+        "image": "/images/rumassa.png",
+        "siteUrl": "https://play.google.com/store/apps/details?id=com.sma1kuningan.rumassa&hl=in"
+      },
+      {
+        "name": "Movie App",
+        "description": "movie app it's just my personal project for nuxt and axios learning to get newest movie release from Movie DB API.",
+        "image": "/images/movie.png",
+        "siteUrl": "https://joe-movie-app.herokuapp.com/"
+      },
+      {
+        "name": "Shekembar Wedding Organizer",
+        "description": "It's part of my freelance to build Wedding Organizer desktop app using java swing with MySQL and jesper report.",
+        "image": "/images/wo.png",
+        "siteUrl": ""
+      }            
+    ]
+  }
+}
