@@ -94,7 +94,7 @@ export default {
   /*
    ** Nuxt.js dev-modules
    */
-  buildModules: ["@nuxtjs/style-resources", "@nuxtjs/color-mode"],
+  buildModules: ['@nuxtjs/color-mode'],
   styleResources: {
     // your settings here
     scss: ["'./assets/scss/*.scss'", "./assets/scss/resume.scss"]
@@ -110,7 +110,7 @@ export default {
       }
     ],
 
-    ["@nuxtjs/style-resources"]
+    ['@nuxtjs/style-resources']
   ],
   i18n: {
     locales: ["en", "es"],
