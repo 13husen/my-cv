@@ -80,7 +80,7 @@
               <DarkModeBtn />
             </div>
           </li>
-          <li class="nav-item">
+<!--           <li class="nav-item">
             <div style="position:fixed; bottom:10px; right: 10px;z-index:1000;">
               <nuxt-link class="btn btn-light" :to="switchLocalePath('en')"
                 >EN</nuxt-link
@@ -89,7 +89,7 @@
                 >ES</nuxt-link
               >
             </div>
-          </li>
+          </li> -->
         </ul>
       </div>
     </nav>
